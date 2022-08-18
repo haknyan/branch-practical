@@ -14,7 +14,7 @@ Abstract: 이 프로젝트의 한줄요약
 
 ### Installation
 
-- Pyton==3.10.4
+- Python==3.10.4
 
 ```shell
 $ pip install -r requirements.txt
